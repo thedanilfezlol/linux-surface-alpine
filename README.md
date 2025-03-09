@@ -1,2 +1,2 @@
 # linux-surface-alpine
-Alpine package for linux-surface kernel
+Alpine APKBUILD for linux-surface, stable Linux kernel with modifications for Microsoft Surface devices
